@@ -33,7 +33,25 @@
       }
     },
 	
-	
+{
+  "footer": {
+    "tabs": {
+      "style": {
+        "background": "rgba(255,255,255,0.8)",
+        "color:disabled": "#cecece",
+        "color": "#009efa"
+      },
+      "items": [{
+        "image": "https://raw.githubusercontent.com/Jasonette/Twitter-UI-example/master/images/home.png",
+        "text": "Home",
+        "style": {
+          "height": "21"
+        },
+}]
+    }
+  }
+}
+
 	
 }
   }
